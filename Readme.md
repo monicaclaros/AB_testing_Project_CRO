@@ -13,7 +13,8 @@
 
 #### 2. Description
 ```
-AB Testing de la web diseñada por el equipo de UX. 
+AB Testing de la web diseñada por el equipo de UX. Data estuvo con el trabajo de campo, mostrando la web a personas random para que busquen la compra de un pienso en específico. Se toma el grupo de control de 20 personas
+Nuevamente se hacen pruebas de campo con otras personas para eliminar sesgos.
 ```
 
 #### 3. Link a un demo con el proyecto desplegado: https://github.com/
@@ -24,7 +25,9 @@ AB Testing de la web diseñada por el equipo de UX.
 
 #### 4. Screenshot imagen que indique cómo debe verse el proyecto.
 
-![image](https://user-images.githubusercontent.com/16636086/106936120-7aaf8300-671c-11eb-9ed2-79fe80608f50.png)
+![image](https://github.com/monicaclaros/AB_testing_Project_CRO/blob/main/images/web.png)
+![image](https://github.com/monicaclaros/AB_testing_Project_CRO/blob/main/images/porcentajes.png)
+![image](https://github.com/monicaclaros/AB_testing_Project_CRO/blob/main/images/graficas.png)
 
 
 
